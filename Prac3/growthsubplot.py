@@ -1,5 +1,5 @@
 
-# growtharray.py - Using arrays to store growth values and plot the arrays #
+# growthsubplot.py - Using arrays to store growth values and plot the array in subplots #
 
 import matplotlib.pyplot as plt
 import numpy as np
@@ -41,8 +41,18 @@ for i in range(1, int(num_iter) + 1 ):
 print("Time: ", time, " \tGrowth: ", growth," \tPopulation: ", population)
 print("\nPROCESSING COMPLETE.\n")
 
+#plots
 
-plt.title('Prac3.1: Unconstrained Growth')
-plt.xlabel('Time') 
-plt.plot(timevalues,popsvalues,'r-')
+plt.figure(1)
+
+plt.subplot(211)
+plt.plot(timevalues, popsvalues, '--') 
+plt.title('Prac3.1: Unconstrained Growth') 
+plt.ylabel('Population')
+
+plt.subplot(212)
+plt.plot(timevalues, popsvalues, 'ro') 
+plt.ylabel('Population') 
+plt.xlabel('Time')
+
 plt.show()
