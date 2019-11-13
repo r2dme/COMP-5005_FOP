@@ -1,0 +1,50 @@
+  648  git push origin HEAD:master
+  649  git init
+  650  git add
+  651  git add .
+  652  git commit -m 'Initial push'
+  653  git *create remote
+  654  git create remote
+  655  git --help
+  656  git push -u origin master
+  657  clear
+  658  cd FOp
+  659  cd FOP
+  660  mkdir PracTest3
+  661  cd PracTest3
+  662  ls
+  663  vim accounts.py 
+  664  python3 accounts.py 
+  665  vim accounts.py 
+  666  python3 accounts.py 
+  667  vim accounts.py 
+  668  python3 accounts.py 
+  669  vim accounts.py 
+  670  python3 accounts.py 
+  671  vim accounts.py 
+  672  python3 accounts.py 
+  673  vim testAccounts.py 
+  674  python3 testAccounts.py 
+  675  vim testAccounts.py 
+  676  python3 testAccounts.py 
+  677  vim testAccounts.py 
+  678  python3 testAccounts.py 
+  679  vim testAccounts.py 
+  680  python3 testAccounts.py 
+  681  vim testAccounts.py 
+  682  python3 testAccounts.py 
+  683  vim testAccounts.py 
+  684  python3 testAccounts.py 
+  685  vim testAccounts.py 
+  686  python3 testAccounts.py 
+  687  vim testAccounts.py 
+  688  vim README
+  689  cd ..
+  690  cd Prac01
+  691  ls
+  692  cp README ../PracTest3/README
+  693  cd ..
+  694  cd PracTest3
+  695  ls
+  696  vim README
+  697  history 50 > hist.txt

@@ -1,0 +1,210 @@
+    1  ls
+    2  ls -l
+    3  ls -la
+    4  pwd
+    5  mkdir test
+    6  ls
+    7  cd tets
+    8  cd test
+    9  rmdir test
+   10  cd root
+   11  cd /
+   12  rmdir test
+   13  ls
+   14  cd home
+   15  ls
+   16  pwd
+   17  mkdir FOP
+   18  cd ~/
+   19  ls
+   20  mkdir FOP
+   21  ls
+   22  mkdir Prac{01..10}
+   23  ls
+   24  rmdir Prac{01..10}
+   25  ls
+   26  cd FOP
+   27  mkdir Prac{01..10}
+   28  ls
+   29  cd
+   30  ls
+   31  cd FOP
+   32  ..cd
+   33  ..
+   34  ../
+   35  cd..
+   36  ls
+   37  cd
+   38  cd Prac01
+   39  cd FOP
+   40  cd Prac01
+   41  cd..
+   42  cd ..
+   43  cd Prac01
+   44  vim README
+   45  ls
+   46  vim README
+   47  vim hello.py
+   48  ls
+   49  python3 hello.py
+   50  vim hello.py
+   51  python3 hello.py
+   52  vim numbers1.py
+   53  python3 numbers1.py
+   54  cp numbers1.py numbers2.py
+   55  vim numbers2.py
+   56  python3 numbers2.py
+   57  vim numbers2.py
+   58  python3 numbers2.py
+   59  cp numbers2.py numbers3.py
+   60  vim numbers3.py
+   61  python3 numbers3.py
+   62  vim growth.py
+   63  python3 growth.py
+   64  vim growth.py
+   65  python3 growth.py
+   66  vim readme
+   67  ls
+   68  vim README
+   69  pwd
+   70  zip Prac01_19733201
+   71  ls
+   72  zip Prac01_19733201 *
+   73  ls
+   74  quit()
+   75  ls
+   76  cd FOP
+   77  ls
+   78  cd Prac02
+   79  cp ../Prac01/README .
+   80  ls
+   81  vim README
+   82  strings1.py
+   83  vim strings1.py
+   84  python3 strings1.py
+   85  vim strings1.py
+   86  python3 strings1.py
+   87  cp strings1.py strings2.py
+   88  ls
+   89  vim strings2.py
+   90  python3 strings2.py
+   91  vim strings2.py
+   92  python3 strings2.py
+   93  vim strings2.py
+   94  python3 strings2.py
+   95  vim strings2.py
+   96  python3 strings2.py
+   97  vim bucket1.py
+   98  python3 bucket1.py
+   99  vim bucket2.py
+  100  python3 bucket2.py
+  101  vim bucket2.py
+  102  python3 bucket2.py
+  103  vim bucket2.py
+  104  python3 bucket2.py
+  105  vim bucket2.py
+  106  python3 bucket2.py
+  107  vim bucket2.py
+  108  python3 bucket2.py
+  109  vim bucket2.py
+  110  python3 bucket2.py
+  111  vim bucket2.py
+  112  python3 bucket2.py
+  113  vim bucket2.py
+  114  python3 bucket2.py
+  115  vim bucket2.py
+  116  python3 bucket2.py
+  117  vim bucket2.py
+  118  python3 bucket2.py
+  119  exit
+  120  ls
+  121  cd FOP
+  122  cd ..
+  123  ls
+  124  cd FOP
+  125  ls
+  126  cd Prac01
+  127  ls
+  128  vim growth.py
+  129  python3 growth.py
+  130  exit
+  131  ls
+  132  cd FOP
+  133  ls'
+  134  ls
+  135  xit
+  136  exitr
+  137  exit
+  138  '
+  139  cd Prac01
+  140  ls
+  141  README
+  142  vim README
+  143  cd ..
+  144  cd Prac02
+  145  cd ..
+  146  ls
+  147  cd FIOP
+  148  csd FIOP
+  149  cd FOP
+  150  cd Prac02
+  151  ls
+  152  cd ..
+  153  mkdir PracTest1
+  154  cd PracTest1
+  155  mkdir Directory1..3
+  156  ls
+  157  rmdir Directory1..3
+  158  mkdir Directory1
+  159  mkdir Directory2
+  160  mkdir Directory3
+  161  cd Directory3
+  162  vim practest
+  163  python3 practest1a.py
+  164  ls
+  165  cd ..
+  166  ls
+  167  cd PracTest1/
+  168  ls
+  169  cd Directory3
+  170  ls
+  171  python3 P
+  172  python3 practest1a.py 
+  173  vim practest1a.py 
+  174  python3 practest1a.py 
+  175  ls
+  176  cp ../Prac01/README .
+  177  cp /FOP/Prac01/README .
+  178  cd ..
+  179  cd Prac01
+  180  cp README README1
+  181  mv README ..
+  182  ls
+  183  mv README1 README
+  184  ls
+  185  cd ..
+  186  ls
+  187  mv README /PracTest README
+  188  mv README /PracTest1
+  189  rm README
+  190  cd Practest1
+  191  cd PracTest1
+  192  cp .. Prac01 README
+  193  vim README
+  194  rm README
+  195  ls
+  196  cd ..
+  197  cd PracTest1
+  198  cd Directory3
+  199  cp ../../Prac01/README .
+  200  ls
+  201  vim README
+  202  vim practest1a.py
+  203  python3 practest1a.py
+  204  vim practest1a.py
+  205  python3 practest1a.py
+  206  vim practest1a.py
+  207  python3 practest1a.py
+  208  vim README
+  209  python3 practest1a.py
+  210  history > hist.txt

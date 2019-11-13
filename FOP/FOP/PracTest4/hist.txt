@@ -1,0 +1,50 @@
+  929  python3 heatsource.py heat2.csv
+  930  vim heatsource.py 
+  931  python3 heatsource.py heat2.csv
+  932  vim heatsource.py 
+  933  python3 heatsource.py heat1.csv
+  934  vim heatsource.py 
+  935  python3 heatsource.py heat1.csv
+  936  vim heatsource.py 
+  937  python3 heatsource.py heat1.csv
+  938  vim heatsource.py 
+  939  python3 heatsource.py heat1.csv
+  940  vim heatsource.py 
+  941  python3 heatsource.py heat1.csv
+  942  vim heatsource.py 
+  943  python3 heatsource.py heat1.csv
+  944  vim heat1.csv
+  945  python3 heatsource.py heat1.csv
+  946  vim heatsource.py 
+  947  python3 heatsource.py heat1.csv
+  948  vim heat2.csv
+  949  vim heatsource.py 
+  950  python3 heatsource.py heat2.csv
+  951  vim heatsource.py 
+  952  python3 heatsource.py heat2.csv
+  953  vim heatsource.py 
+  954  python3 heatsource.py 
+  955  python3 heatsource.py heat1.csv
+  956  vim heatsource.py 
+  957  python3 heatsource.py heat1.csv
+  958  vim heatsource.py 
+  959  python3 heatsource.py heat1.csv
+  960  python3 heatsource.py heat2.csv
+  961  vim heatsource.py 
+  962  python3 heatsource.py heat2.csv
+  963  cd ..
+  964  ls ./Prac*
+  965  cd Practest4
+  966  cd PracTest4
+  967  cp ../Prac01/README .README
+  968  ls
+  969  vim heatsource.py 
+  970  python3 heatsource.py heat1.csv
+  971  python3 heatsource.py heat2.csv
+  972  cp ../Prac01/README .
+  973  ls
+  974  vim README
+  975  history 50 > hist.txt
+  976  ls
+  977  vim README
+  978  history 50 > hist.txt

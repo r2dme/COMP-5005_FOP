@@ -1,0 +1,50 @@
+  330  clear
+  331  cp /Downloads/test2b.py .
+  332  clear
+  333  ls
+  334  vim test2b.py 
+  335  python3 test2b.py 
+  336  vim test2b.py 
+  337  python3 test2b.py 
+  338  vim test2b.py 
+  339  python3 test2b.py 
+  340  vim test2b.py 
+  341  python3 test2b.py 
+  342  vim test2b.py 
+  343  python3 test2b.py 
+  344  vim test2b.py 
+  345  python3 test2b.py 
+  346  vim test2b.py 
+  347  python3 test2b.py 
+  348  vim test2b.py 
+  349  python3 test2b.py 
+  350  vim test2b.py 
+  351  python3 test2b.py 
+  352  vim test2b.py 
+  353  python3 test2b.py 
+  354  vim test2b.py 
+  355  python3 test2b.py 
+  356  vim test2b.py 
+  357  python3 test2b.py 
+  358  vim test2b.py 
+  359  python3 test2b.py 
+  360  vim test2b.py 
+  361  python3 test2b.py 
+  362  vim test2b.py 
+  363  python3 test2b.py 
+  364  vim test2b.py 
+  365  python3 test2b.py 
+  366  vim test2b.py 
+  367  python3 test2b.py 
+  368  vim test2b.py 
+  369  python3 test2b.py 
+  370  vim test2b.py 
+  371  python3 test2b.py 
+  372  vim test2b.py 
+  373  python3 test2b.py 
+  374  vim test2b.py 
+  375  python3 test2b.py 
+  376  vim README
+  377  ls
+  378  vim README
+  379  history 50 > hist.txt
